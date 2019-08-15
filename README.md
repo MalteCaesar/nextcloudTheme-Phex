@@ -1,2 +1,2 @@
 # nextcloudTheme-Phex
-A Phex style nextcloud theme.
+A [Phex](https://en.wiki-aventurica.de/wiki/Twelvegods) style nextcloud theme. 
